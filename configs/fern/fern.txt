@@ -17,4 +17,4 @@ i_print = 100
 i_img = 500
 i_weights = 5000
 i_testset = 5000
-i_video = 5000
+i_video = 25000
